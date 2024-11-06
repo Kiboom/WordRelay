@@ -38,7 +38,7 @@
 
 6. **푸시**: 변경 사항을 원격 저장소에 푸시합니다.
     ```bash
-    git push origin new-word
+    git push origin team2
     ```
 
 
