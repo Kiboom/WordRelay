@@ -4,3 +4,4 @@
 =======
 - 거미
 >>>>>>> 985284d25500b93224577869c7f25ba2bec9934b
+git add words.txt && git rebase --continue
