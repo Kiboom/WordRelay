@@ -41,6 +41,14 @@
     git push origin team2
     ```
 
+7. **푸시 충돌 해결**: 
+    다른 사람이 먼저 푸시해서 거부되면, 원격 변경을 받아온 뒤 다시 푸시합니다.
+    ```bash
+    git pull --rebase origin team1
+    git push origin team1
+    ```
+    만약 충돌이 발생하면 `words.txt`를 수정한 뒤  `git add words.txt && git rebase --continue`로 마무리합니다.
+
 
 ## 규칙
 - 단어는 중복되지 않아야 합니다.
