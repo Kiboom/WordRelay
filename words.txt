@@ -1,5 +1,9 @@
 냉면
+<<<<<<< HEAD
 면접
 접두사
 사진
 진달래
+=======
+면접
+>>>>>>> parent of eaf6147 (Merge branch 'team1' of https://github.com/Kiboom/WordRelay into team1)
